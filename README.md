@@ -1,4 +1,4 @@
-# Google's Perspective-API-Bias-Toxic-Comments
+# Google Perspective API Sentimental Analysis Bias
 
 ## Warning: Since this project looks at "toxic" comments, the content may contain sensitive words that is not suitable for all audiences. Please be aware of what you are about to view and what you may see. 
 
